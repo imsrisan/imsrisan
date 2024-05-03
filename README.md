@@ -13,7 +13,7 @@ Reach me out!
 
 ### What I currently Do
 
-- 🔭 I'm pursuing a degree in artificial intelligence at Sri Shakthi Institution of Engineering and Technology, with a passion for learning Java and Spring Boot.
+- 🔭 I'm pursuing a degree in Artificial Intelligence and Data Science at Sri Shakthi Institution of Engineering and Technology, with a passion for learning Java and Spring Boot.
 - 🤔 I'm open to collabrate with projects which will help me improve my career.
 - 📫 How to reach me: isrisan54@gmail.com.
 - ⚡ Fun fact: I'm a God.
@@ -37,7 +37,9 @@ Java Spring developer with a passion for sharing knowledge and a curiosity for e
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
+<a href="http://www.github.com/imsrisan"><img src="https://github-readme-stats.vercel.app/api?username=imsrisan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="imsrisan's GitHub stats" /></a>
+
+<a href="http://www.github.com/imsrisan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imsrisan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 </details>
 
